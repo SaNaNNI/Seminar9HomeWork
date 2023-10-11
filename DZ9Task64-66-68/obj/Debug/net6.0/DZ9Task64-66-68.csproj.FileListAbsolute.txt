@@ -1,0 +1,15 @@
+F:\My Drive\GeekBrains\C# DZ\DZ9Task64-66-68\obj\Debug\net6.0\DZ9Task64-66-68.csproj.AssemblyReference.cache
+F:\My Drive\GeekBrains\C# DZ\DZ9Task64-66-68\obj\Debug\net6.0\DZ9Task64-66-68.GeneratedMSBuildEditorConfig.editorconfig
+F:\My Drive\GeekBrains\C# DZ\DZ9Task64-66-68\obj\Debug\net6.0\DZ9Task64-66-68.AssemblyInfoInputs.cache
+F:\My Drive\GeekBrains\C# DZ\DZ9Task64-66-68\obj\Debug\net6.0\DZ9Task64-66-68.AssemblyInfo.cs
+F:\My Drive\GeekBrains\C# DZ\DZ9Task64-66-68\obj\Debug\net6.0\DZ9Task64-66-68.csproj.CoreCompileInputs.cache
+F:\My Drive\GeekBrains\C# DZ\DZ9Task64-66-68\bin\Debug\net6.0\DZ9Task64-66-68.exe
+F:\My Drive\GeekBrains\C# DZ\DZ9Task64-66-68\bin\Debug\net6.0\DZ9Task64-66-68.deps.json
+F:\My Drive\GeekBrains\C# DZ\DZ9Task64-66-68\bin\Debug\net6.0\DZ9Task64-66-68.runtimeconfig.json
+F:\My Drive\GeekBrains\C# DZ\DZ9Task64-66-68\bin\Debug\net6.0\DZ9Task64-66-68.dll
+F:\My Drive\GeekBrains\C# DZ\DZ9Task64-66-68\bin\Debug\net6.0\DZ9Task64-66-68.pdb
+F:\My Drive\GeekBrains\C# DZ\DZ9Task64-66-68\obj\Debug\net6.0\DZ9Task64-66-68.dll
+F:\My Drive\GeekBrains\C# DZ\DZ9Task64-66-68\obj\Debug\net6.0\refint\DZ9Task64-66-68.dll
+F:\My Drive\GeekBrains\C# DZ\DZ9Task64-66-68\obj\Debug\net6.0\DZ9Task64-66-68.pdb
+F:\My Drive\GeekBrains\C# DZ\DZ9Task64-66-68\obj\Debug\net6.0\DZ9Task64-66-68.genruntimeconfig.cache
+F:\My Drive\GeekBrains\C# DZ\DZ9Task64-66-68\obj\Debug\net6.0\ref\DZ9Task64-66-68.dll
